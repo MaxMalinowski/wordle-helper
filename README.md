@@ -1,5 +1,2 @@
-# wordle-helper
-<<<<<<< HEAD
-A small cli tool for wordle support
-=======
->>>>>>> d9bc76c (first commit)
+# Wordle-Helper
+A little cli tools to help on finding the right words ...
